@@ -12,6 +12,6 @@ class IndexController extends Controller_Base{
 	 * 默认首页
 	 */
 	function indexAction(){
-		echo 'Hello mixmaster.';
+		
 	}
 }
