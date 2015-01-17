@@ -13,6 +13,6 @@ class Controller_Base extends Yaf_Controller_Abstract{
 	 */
 	function init(){
 // 		var_dump(ROOT_PATH.'/../Mixmaster/Bootstrap.php');exit;
-		include ROOT_PATH.'/../Mixmaster/Bootstrap.php';
+// 		include ROOT_PATH.'/../Mixmaster/Bootstrap.php';
 	}
 }
