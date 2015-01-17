@@ -6,11 +6,12 @@
  * 2015-1-17
  * UTF-8
  */
-class IndexController extends Yaf_Controller_Abstract{
+class IndexController extends Controller_Base{
 	
-	
+	/**
+	 * 默认首页
+	 */
 	function indexAction(){
 		echo 'Hello mixmaster.';
-		exit;
 	}
 }
